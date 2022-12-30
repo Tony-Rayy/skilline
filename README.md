@@ -1,6 +1,6 @@
 # Welcome to Online Learning Landing Page: Skillline Repository
 ### Source
-[source](https://www.figma.com/community/file/1029023791566203786)
+[https://www.figma.com/community/file/1029023791566203786](https://www.figma.com/community/file/1029023791566203786)
 
 ### Link demo online
 []()
@@ -10,8 +10,13 @@
 * Responsive website
 
 ### Screenshots
+* Header
 ![header](https://github.com/Tony-Rayy/skilline/blob/main/screenshots/header.png)
+
+* Main
 ![main](https://github.com/Tony-Rayy/skilline/blob/main/screenshots/main.png)
+
+* Footer
 ![footer](https://github.com/Tony-Rayy/skilline/blob/main/screenshots/footer.png)
 
 #### © 2022 Tony-Rayy
