@@ -10,13 +10,13 @@
 * Responsive website
 
 ### Screenshots
-* Header
+> Header
 ![header](https://github.com/Tony-Rayy/skilline/blob/main/screenshots/header.png)
 
-* Main
+> Main
 ![main](https://github.com/Tony-Rayy/skilline/blob/main/screenshots/main.png)
 
-* Footer
+> Footer
 ![footer](https://github.com/Tony-Rayy/skilline/blob/main/screenshots/footer.png)
 
 #### © 2022 Tony-Rayy
