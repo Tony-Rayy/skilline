@@ -1,0 +1,49 @@
+.company {
+    margin-bottom: 160px;
+    &-heading {
+        font-weight: 500;
+        font-size: 28px;
+        line-height: 160%;
+        text-align: center;
+        margin-bottom: 32px;
+        color: gray;
+    }
+
+    &-logos {
+        max-width: 1370px;
+        display: flex;
+        align-items: center;
+        gap: 0 75px;
+        padding: 0 15px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    //Center img in it's box
+    &-logo img {
+        margin: 0 auto;
+    }
+}
+
+@media screen and (max-width: 1023.98px) {
+    .company {
+        margin-bottom: 50px;
+
+        &-logos {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            grid-gap: 30px 0;
+        }
+    }
+}
+
+@media screen and (max-width: 767.98px) {
+    .company {
+        &-logos {
+            grid-template-columns: 100%;
+        }
+    }
+}
+
+
+
